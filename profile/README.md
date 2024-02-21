@@ -7,7 +7,7 @@
     </p>
 </h2>
 
-[Click Here for English Version](https://github.com/cinenoiz/.github/blob/main/profile/README-EN.md)
+[Click Here for English Version](https://github.com/cinenoiz/.github/blob/master/profile/README-EN.md)
 
 Somos estudantes da Escola Técnica de Guaianazes e este é um repositório para guardar os códigos de nosso projeto de aplicativo de cinema chamado CineNóiz. A organização deste repositório segue as diretrizes das disciplinas de Programação Web III e Programação Mobile II.
 
